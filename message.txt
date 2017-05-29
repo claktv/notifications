@@ -1,3 +1,7 @@
-1 
+2
 ||| 
-Your DroidBOX is now being managed by Tom Downie (TDM LLP). I have taken over all Clak devices and will continue to provide movies and TV shows to boxes running a firmware version higher than 5.0 for the forseeable future. The service is being run at a minimum as this is not my full time endeavour. Every good thing comes to an end and Kodi is no different - if something breaks, nothing can be done and DO NOT CONTACT JACK - HE IS FINISHED!! A new update will be pushed in the coming weeks that will include a new interface and easier management, but if it fails, you will have to find another provider. Kind regards.
+Your DroidBOX system and services are now being managed by Tom Downie. 
+I have taken over all Clak devices and will continue to provide movies and TV shows to boxes running a firmware version higher than 5.0 for the forseeable future. 
+The service is being run at a minimum as this is not my full time endeavour. Every good thing comes to an end and Kodi is no different - if something breaks, nothing can be done and DO NOT CONTACT JACK - HE IS FINISHED!! 
+A new update will be pushed in the coming weeks that will include a new interface and easier management, but if it fails, you will have to find another provider. 
+Kind regards on behalf of Clak.
