@@ -1,6 +1,6 @@
-3
+4
 ||| 
-Your DroidBOX system and services are now being managed by Downie (GlasKodi) Group. 
+Your DroidBOX system and services are now being managed by TDM (GlasKodi) Group. 
 
 We have taken over all Clak devices and will continue to provide movies and TV shows to boxes running a firmware version higher than 5.0 for the forseeable future. 
 
