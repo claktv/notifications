@@ -1,8 +1,10 @@
-4
+5
 ||| 
-All Clak services have now been terminated.
+Welcome to your all-new ClakPlayer!
 
-We hope you have enjoyed using Clak over the past few years, but it is time to move on. This software NO LONGER links to any content - please choose another provider.
+We hope you enjoy all the new features included in this release.
 
-Kind regards, Clak Team.
-GONE BUT NOT FORGOTTEN.
+Please note: if something looks wrong on the screen behind this message,
+please ensure you are running Kodi 16.1.
+
+Happy Streaming!
