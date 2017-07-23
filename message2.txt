@@ -1,11 +1,11 @@
-6
+7
 ||| 
 Thanks for choosing Clak.
 
 Your support helps us improve, so don't hesitate to let me know of
-improvments I could make.
+improvements I could make.
 
-Please note: When opening On-Tapp.TV *DO NOT* add channel line-up. 
+Please note: When opening On-Tapp.TV *DO NOT* choose a 'channel line-up'. 
 This messes up Clak's configuration.
 
 Happy Streaming!
