@@ -2,19 +2,13 @@
 ||| 
 Thanks for choosing Clak.
 
-Unfortunately the end has come for ClakPlayer,
-due to the demise of most popular Kodi add-ons.
-It is now near-impossible to source content,
-the result of over-use and negative coverage
-by the UK media which has made streaming a key
-target for anti-piracy groups.
-
-Terrarium TV is a great alternative app for movies
-and TV shows and Live TV can be viewed with Mobdro
-or UKTV Now. Paid options are also available elsewhere.
-
+Unfortunately the end has come for ClakPlayer, due to the demise of most popular Kodi add-ons.
+It is now near-impossible to source content, the result of over-use and negative coverage
+by the UK media which has made streaming a key target for anti-piracy groups.
+Terrarium TV is a great alternative app for movies and TV shows and Live TV can be viewed
+with Mobdro or UKTV Now. Paid options are also available elsewhere.
 Please note these services have no connection to Clak.
 
 Thanks for your understanding and co-operation.
 
-Clakulus | Downie
+CMG Clakulus | Downie
