@@ -1,10 +1,20 @@
-5
+8
 ||| 
-Welcome to your all-new ClakPlayer!
+Thanks for choosing Clak.
 
-We hope you enjoy all the new features included in this release.
+Unfortunately the end has come for ClakPlayer,
+due to the demise of most popular Kodi add-ons.
+It is now near-impossible to source content,
+the result of over-use and negative coverage
+by the UK media which has made streaming a key
+target for anti-piracy groups.
 
-Please note: if something looks wrong on the screen behind this message,
-please ensure you are running Kodi 16.1.
+Terrarium TV is a great alternative app for movies
+and TV shows and Live TV can be viewed with Mobdro
+or UKTV Now. Paid options are also available elsewhere.
 
-Happy Streaming!
+Please note these services have no connection to Clak.
+
+Thanks for your understanding and co-operation.
+
+Clakulus | Downie
